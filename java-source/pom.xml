@@ -68,10 +68,10 @@
 		</plugins>
 	</build>
 <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>local-libs-release-local</name>
-        <url>http://192.168.29.9:8082/artifactory/local-libs-release-local</url>
-    </repository>
+	<repository>
+		<id>central</id>
+		<name>16704c8a5a1c-releases</name>
+		<url>http://192.168.29.9:8081/artifactory/local-libs-release-local</url>
+  </repository>
 </distributionManagement>
 </project>
